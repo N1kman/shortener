@@ -1,0 +1,8 @@
+# Python and ide
+__pycache__/
+.idea/
+.env
+
+# Alembic files
+alembic.ini
+migrations/
