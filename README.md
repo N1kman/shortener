@@ -4,7 +4,7 @@ Main stack:
 - FastApi
 - SqlAlchemy
 - FastApiUsers
-- FastApiChache2
+- FastApiCache2
 
 
 Links:
